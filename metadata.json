@@ -1,0 +1,6 @@
+{
+  "name": "Gift Webpage",
+  "description": "A customizable, elegant webpage intended as a gift.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
